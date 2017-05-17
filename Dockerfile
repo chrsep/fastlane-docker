@@ -1,3 +1,3 @@
-FROM ruby:alpine
+FROM ruby:latest
 
 RUN gem install fastlane
